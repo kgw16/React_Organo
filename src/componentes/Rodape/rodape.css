@@ -1,0 +1,14 @@
+.footer{
+    color:#fff;
+    background: #6278F7;
+    display:  flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 80px;
+    font-size: 20px;
+}
+
+.footer .redes__sociais img{
+    margin: 20px;
+    width: 24px;
+}
